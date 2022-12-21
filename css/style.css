@@ -2,6 +2,7 @@
 @import "./utilidades/tipografia.css";
 
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /* utilidades */
 @import "./utilidades/componentes.css";
@@ -15,3 +16,9 @@
 
 /* bicicleta */
 @import "./bicicletas/bicicletas-listas.css";
+@import "./bicicletas/bicicletas.css";
+
+/* seguros */
+@import "./seguros/seguros.css";
+
+@import "./termos/termos.css";
